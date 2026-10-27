@@ -30,6 +30,7 @@ Use GitHub repositories to document everything. \o/
 - [Junwei Zhao](https://github.com/wahyd4/knowledge-mind-mapping)
 - [Kamil Ronewicz](https://github.com/galileo/knowledge)
 - [Kirill Gorbachyonok](https://github.com/japanese-goblinn/knowledge-base)
+- [Korey Wang Tianru](https://korey2028.tech) [(Source on GitHub)](https://github.com/korey2028-prog/resume-claim-guard) — AI Product Manager notes, Fitness OS workbench (built from coaching 40+ gym members), and TEM-4 study system.
 - [Manassarn Manoonchai](https://github.com/narze/knowledge)
 - [Marc Loupias](http://memo-dev.marc-loupias.fr/) [\(Source on GitHub\)](https://github.com/MarcLoupias/memo-dev)
 - [Marshall Bowers](https://github.com/maxdeviant/knowledge)
